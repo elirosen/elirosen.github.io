@@ -17,7 +17,7 @@ description: This is the first post to the blog
 
 ## Summary of Summaries:
 
-As the first post, this post if going to be about first things, but its mostly a test.
+As the first post, this post if going to be about first things, but its mostly a test to see if stuff isw working.
 
 **did it work? Is this bold?**
 
