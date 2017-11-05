@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 - tech stuff
-category: blog
+category: project
 author: Eli Rosen
 description: This is the first post to the blog
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
