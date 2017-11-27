@@ -9,6 +9,7 @@ tag:
 - extra
 - tech stuff
 projects: true
+blog: false
 permalink: first-projects-post-001
 author: Eli Rosen
 description: This is the first post to the projects
