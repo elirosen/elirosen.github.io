@@ -5,7 +5,7 @@ tag: books
 img: indigo/indigo.png
 blog: true
 draft: false
-author: artiannaswamy
+author: eli rosen
 summary: "List of books I'm reading in 3000"
 permalink: reading-list-2017
 jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.github.com/images/icons/emoji/unicode/1f4da.png" height="20" width="20" align="absmiddle">'
