@@ -1,5 +1,5 @@
 ---
-title: "TEST project Post"
+title: "First Project"
 layout: post
 image: /assets/images/markdown.jpg
 headerImage: false
@@ -8,11 +8,11 @@ tag:
 - components
 - extra
 - tech stuff
-projects: true
 blog: false
+projects: true
 permalink: first-projects-post-001
 author: Eli Rosen
-description: This is the first post to the projects
+description: This is the first post to the projects. It should not be in the blog
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
@@ -20,7 +20,7 @@ jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.gi
 
 ## Summary of Summaries:
 
-As the first post, this post if going to be about first things, but its mostly a test to see if stuff is working.
+As the first post to projects, this post if going to be about first things, but its mostly a test to make sure that it does not appear in the blog.
 
 **did it work? Is this bold?**
 
