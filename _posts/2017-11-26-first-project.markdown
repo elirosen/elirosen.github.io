@@ -4,6 +4,7 @@ layout: post
 tag: books
 img: indigo/indigo.png
 projects: true
+draft: false
 author: artiannaswamy
 summary: "List of books I'm reading in 2017"
 permalink: reading-list-2017
