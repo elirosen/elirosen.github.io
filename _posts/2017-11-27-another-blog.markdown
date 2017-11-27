@@ -3,7 +3,7 @@ title: "2019 Reading List"
 layout: post
 tag: books
 img: indigo/indigo.png
-blog: true
+projects: true
 author: artiannaswamy
 summary: "List of books I'm reading in 3000"
 permalink: reading-list-2017
@@ -12,4 +12,4 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 
 
 # Mainly this should just work.
-## At least it should appear on blog only.
+## At least it should appear on projects now.
