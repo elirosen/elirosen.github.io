@@ -1,7 +1,6 @@
 ---
 title: "TEST project Post"
 layout: post
-date: 2017-11-26 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,11 +8,14 @@ tag:
 - components
 - extra
 - tech stuff
-category: projects
+projects: true
+permalink: first-projects-post-001
 author: Eli Rosen
 description: This is the first post to the projects
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
+
 
 ## Summary of Summaries:
 
