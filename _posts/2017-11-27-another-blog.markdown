@@ -3,7 +3,8 @@ title: "2019 Reading List"
 layout: post
 tag: books
 img: indigo/indigo.png
-projects: true
+blog: true
+draft: false
 author: artiannaswamy
 summary: "List of books I'm reading in 3000"
 permalink: reading-list-2017
