@@ -1,8 +1,8 @@
 ---
-title: "2019 Reading List"
+title: "2019 Reading Lists"
 layout: post
 tag: books
-img: indigo/indigo.png
+img: https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
 blog: true
 draft: false
 author: eli rosen
@@ -14,3 +14,5 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 
 # Mainly this should just work.
 ## At least it should appear on projects now.
+
+#is there a picture??
