@@ -2,8 +2,8 @@
 title: "TEST Post"
 layout: post
 date: 2017-07-19 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
+headerImage: true
 tag:
 - markdown
 - components
